@@ -26,6 +26,7 @@ body {
   color: hsl(218, 44%, 22%);
   align-items: center;
   border-radius: 20px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.596);
 }
 .Contqr {
   display: flex;
@@ -56,4 +57,7 @@ h2 {
   padding-left: 2em;
   padding-right: 2em;
   padding-bottom: 2em;
+}
+.attribution {
+  margin-top: 1em;
 }
